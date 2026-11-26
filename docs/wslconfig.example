@@ -1,0 +1,5 @@
+# Save as C:\Users\<you>\.wslconfig, then run:  wsl --shutdown
+# Caps how much of the laptop Docker (WSL2) can use, so games, DAWs and Ollama keep enough.
+[wsl2]
+memory=12GB
+processors=8
